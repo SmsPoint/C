@@ -57,8 +57,3 @@ gcc main.c -L. -lsms_client -o main
 Once compiled, you can run it with ``` ./main ```
 
 Note: You don't need to specify includes for models and include folder seperately as they are path linked. You just have to import the api.h file in your code, the include linking will work.
-
-## Author
-
-
-
